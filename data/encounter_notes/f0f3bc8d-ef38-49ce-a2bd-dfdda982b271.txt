@@ -1,0 +1,70 @@
+URGENT CARE ENCOUNTER NOTE
+Date of Service: March 2, 2020 01:02-01:58
+
+DEMOGRAPHICS:
+Name: Jacinto Kris
+DOB: 8/24/2017 (2y/o)
+Gender: Male
+Address: Springfield, MA
+Insurance: Self-Pay
+MRN: f0f3bc8d-ef38-49ce-a2bd-dfdda982b271
+
+PERTINENT MEDICAL HISTORY:
+- Recurrent otitis media (episodes in 2/2019 and 10/2019-1/2020)
+Last Visit: Well child visit (1/31/2020)
+Immunizations: 
+- Influenza vaccine (8/1/2019)
+- Hepatitis A vaccine (1/30/2020)
+
+SUBJECTIVE:
+Patient presents with fever. Parent reports acute onset of symptoms. Patient seen one month ago for well-child visit where vitals were stable. Recent history of otitis media resolved with oral antibiotics.
+
+OBJECTIVE:
+Vitals:
+Temperature: 39.7°C (103.5°F)
+Heart Rate: 164/min
+Blood Pressure: 130/75 mmHg
+Respiratory Rate: 33/min
+O2 Saturation: 86.2% on room air
+Weight: 13.5 kg
+
+Recent Growth Parameters (1/30/2020):
+Height: 86.3 cm
+Weight: 13.4 kg
+BMI: 18.0 kg/m2 (88th percentile)
+Head Circumference: 47.4 cm
+
+Physical Exam:
+- Patient appears acutely ill
+- Tachypneic with increased work of breathing
+- Never smoker (documented)
+
+Laboratory/Testing:
+COVID-19 PCR: POSITIVE
+Respiratory Panel:
+- Influenza A/B: Negative
+- RSV: Negative
+- Parainfluenza 1,2,3: Negative
+- Rhinovirus: Negative
+- Human metapneumovirus: Negative
+- Adenovirus: Negative
+
+ASSESSMENT:
+1. Confirmed COVID-19 infection with severe symptoms
+2. Acute hypoxemia
+3. High fever
+4. Tachycardia and tachypnea
+
+PLAN:
+1. Face mask provided
+2. Infectious disease care plan initiated
+3. Close monitoring of respiratory status given young age and hypoxemia
+4. Parent education on isolation protocols and warning signs
+5. Consider admission if respiratory status worsens
+
+Next Visit: Close follow-up needed
+
+Encounter Duration: 56 minutes
+Encounter Type: Ambulatory/Urgent Care
+Provider: ID# 9c875a09-93e0-39aa-9260-ad264bbdd3fe
+Facility: fd328395-ab1d-35c6-a2d0-d05a9a79cf11

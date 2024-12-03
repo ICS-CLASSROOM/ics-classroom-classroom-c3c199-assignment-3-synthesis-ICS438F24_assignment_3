@@ -1,0 +1,65 @@
+URGENT CARE ENCOUNTER NOTE
+Date of Service: March 3, 2020 00:58-02:19
+
+DEMOGRAPHICS:
+Name: Gregorio Auer
+DOB: 11/15/1996 (23y/o)
+Gender: Male
+Address: Boston, MA
+Insurance: Medicare/Medicaid
+MRN: 353016ea-a0ff-4154-85bb-1cf8b6cedf20
+
+PERTINENT MEDICAL HISTORY:
+No significant past medical history
+
+SUBJECTIVE:
+Previously healthy 23-year-old male presents with fever, productive cough with sputum, nasal congestion, and severe fatigue. Symptoms began yesterday.
+
+
+OBJECTIVE:
+Vitals:
+Temperature: 38.8°C (101.8°F)
+Heart Rate: 51/min (bradycardic)
+Blood Pressure: 116/80 mmHg
+Respiratory Rate: 19/min
+O2 Saturation: 77.6% on room air
+Weight: 91.2 kg
+
+Physical Exam:
+- Patient appears acutely ill
+- Notable bradycardia
+- Significant hypoxemia requiring oxygen support
+- Nasal congestion present
+- Productive cough noted
+
+Laboratory/Testing:
+COVID-19 PCR: POSITIVE
+Rapid Flu Testing:
+- Influenza A: Negative
+- Influenza B: Negative
+
+ASSESSMENT:
+1. Confirmed COVID-19 infection with severe symptoms
+2. Severe hypoxemia requiring immediate intervention
+3. Significant bradycardia requiring monitoring
+4. Upper respiratory symptoms
+
+PLAN:
+1. Face mask and oxygen support provided
+2. Infectious disease care plan initiated
+3. Close monitoring of:
+  - Oxygen saturation
+  - Heart rate given bradycardia
+  - Respiratory status
+4. Patient education provided on:
+  - Isolation protocols
+  - Warning signs requiring immediate attention
+  - Activity limitations
+  - Return precautions
+
+Next Visit: Close follow-up needed during acute phase
+
+Encounter Duration: 81 minutes
+Encounter Type: Ambulatory/Urgent Care
+Provider: ID# 6ba172e8-ae6d-3c6c-9f49-38096f9d1e1e
+Facility: d78e84ec-30aa-3bba-a33a-f29a3a454662

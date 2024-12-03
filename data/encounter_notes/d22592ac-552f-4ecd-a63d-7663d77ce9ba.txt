@@ -1,0 +1,79 @@
+AMBULATORY ENCOUNTER NOTE
+Date of Service: March 7, 2020 12:56-14:13
+
+DEMOGRAPHICS:
+Name: Mr. José Eduardo181 Gómez206
+DOB: 6/22/1989 (30y/o)
+Gender: Male
+Address: 427 Balistreri Way Unit 19, Chicopee, Massachusetts 01013
+Insurance: Guardian
+MRN: d22592ac-552f-4ecd-a63d-7663d77ce9ba
+
+PERTINENT MEDICAL HISTORY:
+- Obesity (diagnosed 2007)
+- Prediabetes (diagnosed 2014)
+- Recent clavicle fracture (09/13/2019 - 12/12/2019)
+
+Current Medications (Prior to Visit):
+- Completed course of Meperidine Hydrochloride 50 MG (9/13/2019 - 10/7/2019)
+- Completed course of Acetaminophen 325 MG (9/13/2019 - 12/12/2019)
+
+Recent Encounters:
+- Emergency room visit for clavicle fracture (9/13/2019)
+- Follow-up check for fracture (12/12/2019)
+
+Recent Procedures:
+- Clavicle X-ray (9/13/2019)
+- Admission to orthopedic department (9/13/2019)
+
+SUBJECTIVE:
+Patient presents with new onset of symptoms, including cough, sore throat, and severe fatigue. The patient initially presented with suspected COVID-19 symptoms, warranting testing. A history of obesity and prediabetes is noted as risk factors.
+
+OBJECTIVE:
+Vitals:
+Temperature: 42.0°C (107.6°F)
+Heart Rate: 87.9/min
+Blood Pressure: 113/83 mmHg
+Respiratory Rate: 20.9/min
+O2 Saturation: 83.5% on room air
+Weight: 94.7 kg
+
+Laboratory/Testing:
+COVID-19 PCR: POSITIVE
+Respiratory Panel:
+- Influenza A: Negative
+- Influenza B: Negative
+
+ASSESSMENT:
+1. Confirmed COVID-19 infection with severe symptoms
+2. Acute hypoxemia (O2 sat 83.5%)
+3. Extremely high-grade fever (42.0°C)
+4. Risk factors:
+   - Obesity
+   - Prediabetes
+5. Associated symptoms:
+   - Cough
+   - Sore throat
+   - Fatigue
+
+PLAN:
+1. Face mask provided for immediate respiratory support
+2. Infectious disease care plan initiated
+3. Close monitoring of respiratory status required due to:
+   - Severe hypoxemia
+   - Extremely high fever
+   - Underlying risk factors
+4. Patient education provided regarding:
+   - Isolation protocols
+   - COVID-19 warning signs
+   - When to seek emergency care
+5. Follow-up care plan established for COVID-19 management
+
+Next Visit: Close monitoring required during acute phase
+
+Encounter Duration: 77 minutes
+Encounter Type: Ambulatory
+Provider: ID# f59948a6-b07a-3248-9661-60f5924b644b
+Facility: 5d4b9df1-93ae-3bc9-b680-03249990e558
+Base Encounter Cost: $129.16
+Insurance Coverage: $59.16

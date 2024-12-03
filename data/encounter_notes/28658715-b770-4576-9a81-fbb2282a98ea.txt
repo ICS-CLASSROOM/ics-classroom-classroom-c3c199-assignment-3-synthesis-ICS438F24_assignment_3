@@ -1,0 +1,100 @@
+AMBULATORY ENCOUNTER NOTE
+Date of Service: February 29, 2020 04:48-05:44
+DEMOGRAPHICS:
+Name: Mrs. Karyn217 Metz686
+DOB: 7/31/1991 (28y/o)
+Gender: Female
+Address: 181 Feest Passage Suite 64, Medfield, Massachusetts 02052
+Insurance: Guardian
+MRN: 28658715-b770-4576-9a81-fbb2282a98ea
+PERTINENT MEDICAL HISTORY:
+
+Brain damage - traumatic (since 1995)
+History of miscarriage in first trimester (2011)
+Currently pregnant (confirmed 12/2019)
+Regular prenatal care in progress
+
+Current Status:
+
+Currently at approximately 12 weeks gestation
+Recent normal prenatal visits (1/1/2020, 1/29/2020, 2/26/2020)
+
+Recent Procedures/Tests:
+
+Complete prenatal panel (12/3/2019)
+Fetal anatomy study (1/28/2020)
+Alpha-fetoprotein test (1/28/2020)
+Regular fetal heart monitoring and fundal height evaluations
+
+Immunizations:
+
+Influenza vaccine (10/9/2019)
+
+Baseline Vitals (10/9/2019):
+Height: 167.3 cm
+Weight: 74.0 kg
+BMI: 26.4 kg/m²
+BP: 126/75 mmHg
+
+SUBJECTIVE:
+Patient presents with multiple acute symptoms, including fever, muscle pain, joint pain, and loss of taste. The patient is currently in her first trimester of pregnancy and is receiving regular prenatal care. She has no history of smoking.
+
+OBJECTIVE:
+Vitals:
+Temperature: 41.5°C (106.7°F)
+Heart Rate: 84.4/min
+Blood Pressure: 108/84 mmHg
+Respiratory Rate: 27.3/min
+O2 Saturation: 86.7% on room air
+Weight: 74.0 kg (stable)
+Laboratory/Testing:
+COVID-19 PCR: POSITIVE
+Respiratory Panel:
+
+Influenza A: Negative
+Influenza B: Negative
+
+ASSESSMENT:
+
+Confirmed COVID-19 infection with severe symptoms
+Acute hypoxemia requiring intervention (O2 sat 86.7%)
+High-grade fever (41.5°C)
+First trimester pregnancy (high-risk condition with COVID-19)
+Associated symptoms:
+
+Myalgia
+Arthralgia
+Ageusia (loss of taste)
+
+
+
+PLAN:
+
+Face mask provided for immediate respiratory support
+Infectious disease care plan initiated
+High-risk pregnancy management with COVID-19:
+
+Close monitoring of maternal oxygenation
+Temperature management critical
+Coordination with obstetrics team
+
+
+Patient education provided regarding:
+
+COVID-19 isolation protocols
+Pregnancy-specific warning signs
+When to seek emergency care
+
+
+Follow-up:
+
+COVID-19 monitoring
+Continue regular prenatal visits as scheduled
+Next prenatal visit scheduled for 3/25/2020
+
+
+
+Encounter Duration: 56 minutes
+Encounter Type: Ambulatory
+Provider: ID# bc4a66b7-a2ba-3ad3-af08-2975489d8495
+Facility: 3bd5eda0-16da-3ba5-8500-4dfd6ae118b8

@@ -1,0 +1,71 @@
+URGENT CARE ENCOUNTER NOTE
+Date of Service: March 13, 2020 16:12-17:11
+
+DEMOGRAPHICS:
+Name: Ms. Brown
+DOB: 9/29/1982 (37y/o)
+Gender: Female
+Address: Boston, MA
+Insurance: Medicare/Medicaid
+MRN: df6b563d-1ff4-4833-9af8-84431e641e9c
+
+PERTINENT MEDICAL HISTORY:
+- Pulmonary emphysema (diagnosed 2015)
+- Hypertension (since 2000)
+- Multiple allergies (bee venom, grass/tree pollen, fish)
+Current Medications:
+- Hydrochlorothiazide 12.5 MG daily
+- Fluticasone/Salmeterol 250/50 mcg inhaler BID
+Last Visit: Routine wellness check (3/11/2020)
+Immunizations: Influenza vaccine received 3/11/2020
+
+SUBJECTIVE:
+Patient presents with acute onset of symptoms including fever, cough, severe fatigue, and complete loss of taste. Symptoms began approximately 48 hours ago. Patient reports worsening shortness of breath over the last 24 hours. Denies recent travel. No known COVID contacts. Never smoker. Has been compliant with maintenance inhalers for emphysema.
+
+OBJECTIVE:
+Vitals:
+Temperature: 40.6°C (105.1°F)
+Heart Rate: 179/min
+Blood Pressure: 106/78 mmHg
+Respiratory Rate: 24/min
+O2 Saturation: 83.6% on room air
+Weight: 59.9 kg
+
+Physical Exam:
+- Patient appears acutely ill
+- Respiratory: Increased work of breathing, diffuse wheezes
+- Baseline FEV1/FVC from recent wellness visit (3/11): 26.9%
+
+Laboratory/Testing:
+COVID-19 PCR: POSITIVE
+Respiratory Panel:
+- Influenza A/B: Negative
+- RSV: Negative
+- Parainfluenza 1,2,3: Negative
+- Rhinovirus: Negative
+- Human metapneumovirus: Negative
+- Adenovirus: Negative
+
+ASSESSMENT:
+1. Confirmed COVID-19 infection with severe symptoms
+2. Acute hypoxemia
+3. High risk due to underlying pulmonary emphysema
+4. Controlled hypertension
+
+PLAN:
+1. Patient requires immediate oxygen supplementation
+2. Face mask provided
+3. Given severity of symptoms and underlying emphysema, direct admission recommended
+4. Continue home medications including:
+   - Hydrochlorothiazide 12.5 mg daily
+   - Fluticasone/Salmeterol inhaler
+5. Infectious disease care plan initiated
+6. Close monitoring of respiratory status
+7. Patient educated on isolation protocols
+8. Follow-up: Scheduled thoracic surgery admission on 5/13/2020 for previously planned lung volume reduction surgery, will reassess timing based on COVID recovery
+
+Next Visit: Monitor daily during acute phase
+
+Encounter Duration: 59 minutes
+Encounter Type: Ambulatory/Urgent Care
+Provider: ID# d76028b8-d23f-346e-abd0-65995aec66c8

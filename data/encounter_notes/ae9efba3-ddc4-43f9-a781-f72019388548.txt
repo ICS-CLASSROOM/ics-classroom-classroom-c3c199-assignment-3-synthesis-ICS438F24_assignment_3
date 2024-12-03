@@ -1,0 +1,83 @@
+URGENT CARE ENCOUNTER NOTE
+Date of Service: March 11, 2020 10:51-11:42
+
+DEMOGRAPHICS:
+Name: Jayson Fadel
+DOB: 6/30/1992 (27y/o)
+Gender: Male  
+Address: Chicopee, MA
+Insurance: Guardian
+MRN: ae9efba3-ddc4-43f9-a781-f72019388548
+
+PERTINENT MEDICAL HISTORY:
+- Hypertension (since 2010) - on combination therapy
+- Recent viral sinusitis (11/2019)
+Current Medications:
+- amLODIPine/Hydrochlorothiazide/Olmesartan (5/12.5/20 mg) daily 
+Last Visit: Annual physical (10/15/2019)
+Immunizations: Influenza vaccine (10/15/2019)
+
+SUBJECTIVE:
+Patient presents with multiple symptoms, including fever, severe headache, persistent cough, marked fatigue, nausea and vomiting, and complete loss of taste. The patient has a history of controlled hypertension and a recent episode of viral sinusitis in November 2019.
+
+
+OBJECTIVE:
+Vitals:
+Temperature: 41.1°C (106°F)
+Heart Rate: 187/min
+Blood Pressure: 187/96 mmHg
+Respiratory Rate: 33/min
+O2 Saturation: 88.7% on room air
+Weight: 68.2 kg (stable from last visit)
+
+Physical Exam:
+- Patient appears acutely ill
+- Significantly elevated blood pressure from baseline
+- Marked tachycardia and tachypnea
+- Hypoxemic requiring oxygen support
+
+Last Known Baseline (10/15/2019):
+Height: 165.7 cm
+Weight: 68.2 kg
+BMI: 24.8 kg/m2
+BP: 163/106 mmHg
+HR: 74/min
+RR: 15/min
+
+Laboratory/Testing:
+COVID-19 PCR: POSITIVE
+Respiratory Panel:
+- Influenza A/B: Negative
+- RSV: Negative
+- Parainfluenza 1,2,3: Negative
+- Rhinovirus: Negative
+- Human metapneumovirus: Negative
+- Adenovirus: Negative
+
+ASSESSMENT:
+1. Confirmed COVID-19 infection with severe symptoms
+2. Hypertensive urgency (BP 187/96)
+3. Acute hypoxemia
+4. Severe fever
+5. Significant tachycardia
+6. Gastrointestinal symptoms with risk of dehydration
+
+PLAN:
+1. Face mask and oxygen support provided
+2. Infectious disease care plan initiated
+3. Close monitoring of blood pressure and cardiac status
+4. Continue current antihypertensive medications
+5. Aggressive fever management
+6. Monitor for worsening respiratory status
+7. Patient education provided:
+  - COVID-19 isolation protocols
+  - Warning signs requiring immediate attention
+  - Importance of blood pressure monitoring
+  - Hydration guidance
+
+Next Visit: Close follow-up needed during acute phase
+
+Encounter Duration: 51 minutes
+Encounter Type: Ambulatory/Urgent Care
+Provider: ID# f59948a6-b07a-3248-9661-60f5924b644b
+Facility: 5d4b9df1-93ae-3bc9-b680-03249990e558

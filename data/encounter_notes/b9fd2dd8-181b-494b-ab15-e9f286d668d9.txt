@@ -1,0 +1,53 @@
+I'll create a clinical note based on the data provided for the patient, following the format from your examples.
+
+AMBULATORY ENCOUNTER NOTE
+Date of Service: February 25, 2020 15:39-16:31
+
+DEMOGRAPHICS:
+Name: Mr. Milo271 Feil794
+DOB: 12/12/1983 (36y/o)
+Gender: Male
+Address: 422 Farrell Path Unit 69, Somerville, Massachusetts
+Insurance: Guardian
+MRN: b9fd2dd8-181b-494b-ab15-e9f286d668d9
+
+PERTINENT MEDICAL HISTORY:
+Recent history of viral sinusitis (1/16/2020-1/23/2020)
+
+SUBJECTIVE:
+Patient presents with multiple acute symptoms, including headache, dyspnea, wheezing, muscle pain, joint pain, fever, and complete loss of taste. The case was initially presented as suspected COVID-19.
+
+
+OBJECTIVE:
+Vitals:
+Temperature: 39.9°C (103.8°F)
+Heart Rate: 82.1/min
+Blood Pressure: 122/80 mmHg
+Respiratory Rate: 31.5/min
+O2 Saturation: 89.0% on room air
+Weight: 112.7 kg
+
+Laboratory Results:
+COVID-19 Testing:
+- SARS-CoV-2 RNA: DETECTED
+Influenza Testing:
+- Influenza A: Negative
+- Influenza B: Negative
+
+ASSESSMENT:
+1. Confirmed COVID-19 infection
+2. Acute hypoxemia
+3. Multiple associated symptoms including fever, myalgia, arthralgia, and ageusia
+
+PLAN:
+1. Face mask provided
+2. Infectious disease care plan initiated
+3. Patient education on isolation protocols
+4. Close monitoring of respiratory status required given oxygen saturation
+5. Follow-up care to be arranged based on clinical course
+
+Encounter Duration: 52 minutes
+Encounter Type: Ambulatory
+Provider ID: 046c4fac-2680-391a-ba36-eeaec6eed0c5
+Facility: e002090d-4e92-300e-b41e-7d1f21dee4c6
+

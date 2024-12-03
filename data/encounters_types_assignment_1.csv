@@ -1,0 +1,57 @@
+CODE,DESCRIPTION
+1505002,Hospital admission for isolation (procedure)
+162673000,General examination of patient (procedure)
+169762003,Postnatal visit
+170837001,Allergic disorder initial assessment
+170838006,Allergic disorder follow-up assessment
+183452005,Encounter Inpatient
+183460006,Obstetric emergency hospital admission
+183478001,Emergency hospital admission for asthma
+183495009,Non-urgent orthopedic admission
+183801001,Inpatient stay 3 days
+185317003,Telephone encounter (procedure)
+185345009,Encounter for symptom
+185345009,Encounter for symptom (procedure)
+185347001,Encounter for Problem
+185347001,Encounter for problem
+185347001,Encounter for problem (procedure)
+185349003,Encounter for 'check-up'
+185349003,Encounter for check up
+185349003,Encounter for check up (procedure)
+185389009,Follow-up visit (procedure)
+210098006,Domiciliary or rest home patient evaluation and management
+22298006,Myocardial Infarction
+223484005,Discussion about treatment (procedure)
+230690007,Stroke
+270427003,Patient-initiated encounter
+305351004,Admission to intensive care unit (procedure)
+305408004,Admission to surgical department
+305411003,Admission to thoracic surgery department
+308335008,Patient encounter procedure
+308540004,Inpatient stay (finding)
+308646001,Death Certification
+310061009,Gynecology service (qualifier value)
+316744009,Office Visit
+32485007,Hospital admission
+371883000,Outpatient procedure
+390906007,Follow-up encounter
+390906007,Hypertension follow-up encounter
+394701000,Asthma follow-up
+410410006,Screening surveillance (regime/therapy)
+410429000,Cardiac Arrest
+410620009,Well child visit (procedure)
+424441002,Prenatal initial visit
+424619006,Prenatal visit
+439740005,Postoperative follow-up visit (procedure)
+448337001,Telemedicine consultation with patient
+47505003,posttraumatic stress disorder
+50849002,Emergency Encounter
+50849002,Emergency Room Admission
+50849002,Emergency room admission (procedure)
+56876005,Drug rehabilitation and detoxification
+67799006,Diagnosis of cystic fibrosis using sweat test and gene test
+698314001,Consultation for treatment
+702927004,Urgent care clinic (procedure)
+76464004,Hospital admission  for observation (procedure)
+79094001,Initial Psychiatric Interview with mental status evaluation
+86013001,Periodic reevaluation and management of healthy individual (procedure)

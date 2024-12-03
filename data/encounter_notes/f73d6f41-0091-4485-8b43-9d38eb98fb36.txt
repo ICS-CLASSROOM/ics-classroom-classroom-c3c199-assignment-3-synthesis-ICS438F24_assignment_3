@@ -1,0 +1,68 @@
+AMBULATORY ENCOUNTER NOTE
+Date of Service: March 8, 2020 21:03-22:06
+
+DEMOGRAPHICS:
+Name: Mrs. Leann224 Deckow585
+DOB: 7/5/1989 (30y/o)
+Gender: Female
+Address: 118 Bailey Orchard Suite 34, Needham, Massachusetts
+Insurance: Self
+MRN: f73d6f41-0091-4485-8b43-9d38eb98fb36
+
+PERTINENT MEDICAL HISTORY:
+- History of pregnancies: 2011-2012, 2015-2016, 2019 (delivered 10/2019)
+- Currently pregnant (confirmed 3/11/2020)
+
+Recent Procedures:
+- Complete prenatal panel (3/11/2020)
+- Ultrasound scan for fetal viability (3/11/2020)
+- Standard pregnancy screening tests (3/11/2020)
+
+SUBJECTIVE:
+Patient presents with:
+- Productive cough with sputum
+- Fatigue
+- Fever
+Never smoker. Currently in first trimester of pregnancy.
+
+OBJECTIVE:
+Vitals:
+Temperature: 40.1°C (104.2°F)
+Heart Rate: 151.0/min
+Blood Pressure: 104/84 mmHg
+Respiratory Rate: 12.3/min
+O2 Saturation: 88.9% on room air
+Weight: 69.6 kg
+
+Laboratory/Testing:
+COVID-19 PCR: POSITIVE
+Respiratory Panel:
+- Influenza A: Negative
+- Influenza B: Negative
+
+ASSESSMENT:
+1. Confirmed COVID-19 infection with severe symptoms
+2. Early pregnancy (first trimester)
+3. Acute hypoxemia requiring intervention
+4. Significant tachycardia
+5. High-grade fever requiring management
+
+PLAN:
+1. Face mask provided for immediate respiratory support
+2. Infectious disease care plan initiated
+3. High-risk pregnancy management due to COVID-19:
+   - Close monitoring of maternal oxygenation
+   - Aggressive fever management
+   - Coordination with obstetrics
+4. Patient education regarding:
+   - COVID-19 isolation protocols
+   - Pregnancy-specific warning signs
+   - When to seek emergency care
+5. Follow-up:
+   - COVID-19 monitoring
+   - Continue prenatal care (next visit scheduled 4/8/2020)
+
+Encounter Duration: 63 minutes
+Encounter Type: Ambulatory
+Provider: ID# 6b47028d-5118-3ace-91cc-a37789612e24
+Facility: 3d10019f-c88e-3de5-9916-6107b9c0263d

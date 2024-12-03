@@ -1,0 +1,83 @@
+URGENT CARE ENCOUNTER NOTE
+Date of Service: March 2, 2020 04:15-05:15
+
+DEMOGRAPHICS:
+Name: Jimmie Harris
+DOB: 1/9/2004 (16y/o)
+Gender: Female
+Address: Pembroke, MA
+Insurance: Medicare/Medicaid
+MRN: 199c586f-af16-4091-9998-ee4cfc02ee7a
+
+PERTINENT MEDICAL HISTORY:
+No significant past medical history
+Current Medications:
+- Jolivette (oral contraceptive)
+Last Visit: Well child visit (2/22/2020)
+Immunizations: 
+- Influenza vaccine (2/21/2020)
+- Meningococcal vaccine (2/21/2020)
+
+Recent Labs (2/21/2020):
+CBC Results:
+- WBC: 7.9 K/uL
+- RBC: 4.6 M/uL
+- Hemoglobin: 12.6 g/dL
+- Hematocrit: 46.5%
+- Platelets: 398.3 K/uL
+
+SUBJECTIVE:
+Previously healthy adolescent presents with fever, productive cough with sputum, nausea, and vomiting. Symptoms began yesterday. The patient has no history of smoking and reports no known contacts with COVID-19.
+
+OBJECTIVE:
+Vitals:
+Temperature: 40.7°C (105.3°F)
+Heart Rate: 98/min
+Blood Pressure: 120/89 mmHg
+Respiratory Rate: 22/min
+O2 Saturation: 78.2% on room air
+Weight: 45.3 kg (stable)
+
+Recent Baseline (2/21/2020):
+Height: 149.3 cm
+Weight: 45.3 kg
+BMI: 20.3 kg/m2 (47.6th percentile)
+BP: 124/83 mmHg
+HR: 77/min
+RR: 16/min
+
+Laboratory/Testing:
+COVID-19 PCR: POSITIVE
+Respiratory Panel:
+- Influenza A/B: Negative
+- RSV: Negative
+- Parainfluenza 1,2,3: Negative
+- Rhinovirus: Negative
+- Human metapneumovirus: Negative
+- Adenovirus: Negative
+
+ASSESSMENT:
+1. Confirmed COVID-19 infection with severe symptoms
+2. Acute hypoxemia requiring intervention
+3. High-grade fever
+4. GI symptoms with risk of dehydration
+5. Otherwise healthy adolescent
+
+PLAN:
+1. Face mask and oxygen support provided
+2. Infectious disease care plan initiated
+3. Close monitoring of respiratory status given severe hypoxemia
+4. Continue current medications
+5. Parent/patient education on:
+  - Home isolation protocols
+  - Warning signs requiring immediate attention
+  - Hydration importance
+  - Return precautions
+6. Jolivette 28 Day Pack
+
+Next Visit: Close follow-up needed during acute phase
+
+Encounter Duration: 60 minutes
+Encounter Type: Ambulatory/Urgent Care
+Provider: ID# 8be741d6-44d0-3412-88dd-4987e1559f0b
+Facility: b1ddf812-1fdd-3adf-b1d5-32cc8bd07ebb
